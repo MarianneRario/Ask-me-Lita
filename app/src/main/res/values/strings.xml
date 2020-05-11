@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Ask Me, Lita</string>
+    <string name="ask_button">Ask Question</string>
+    <string name="ask_text">Make your everyday decision easier. \nAsk me, Lita...</string>
+    <string name="text1">Welcome</string>
+</resources>
